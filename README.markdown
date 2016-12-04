@@ -1,4 +1,4 @@
-# Spectacle Boilerplate
+# Deepsec 2016 stuff
 
 ## Reference
 
