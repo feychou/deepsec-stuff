@@ -1,5 +1,7 @@
 # Deepsec 2016 stuff
 
+[It's on gh pages, WOW](https://feychou.github.io/deepsec-stuff)
+
 ## Reference
 
 Built with [Spectacle boilerplate](https://github.com/FormidableLabs/spectacle-boilerplate).
